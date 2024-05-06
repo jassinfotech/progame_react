@@ -68,3 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screencapture-progame-co-in-2024-05-06-10_14_08](https://github.com/jassinfotech/progame_react/assets/81808851/c0a85d1a-d29e-4585-b5c5-e94cb3206692)
